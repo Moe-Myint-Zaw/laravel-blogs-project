@@ -7,10 +7,8 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-    <h1>First Blog</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
-        aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
+    <?=$blog?>
+   
+<a href="/">go back</a>  
 </body>
-
-<a href="/">go back</a>
 </html>

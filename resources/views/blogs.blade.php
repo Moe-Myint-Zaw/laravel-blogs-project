@@ -7,17 +7,25 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-    <h1><a href="/blog">First Blog</a></h1>
+    <article>
+    <h1><a href="/blogs/first-blog">First Blog</a></h1>
     
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
         aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
+    </article>
 
-    <h1><a href="/blog">Second Blog</a></h1>
+    <article>
+        <h1><a href="/blogs/second-blog">Second Blog</a></h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
+        aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
+
+    </article>
+
+    <article>
+    <h1><a href="/blogs/third-blog">Third Blog</a></h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
     aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
-
-    <h1><a href="/blog">Third Blog</a></h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
-    aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
+    </article>
+    
 </body>
 </html>
