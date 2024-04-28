@@ -11,4 +11,6 @@
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint eius consequatur tempora placeat quaerat numquam, labore 
         aliquam blanditiis dignissimos ipsam esse, voluptate non quo illo reprehenderit iure natus, amet adipisci!</p>
 </body>
+
+<a href="/">go back</a>
 </html>
